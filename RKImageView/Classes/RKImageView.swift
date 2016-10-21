@@ -49,7 +49,6 @@ import Foundation
         
         func initialiseImageView() {
             self.backgroundColor = UIColor.black
-            self.translatesAutoresizingMaskIntoConstraints = false
             addScrollView()
             addImageView()
         }

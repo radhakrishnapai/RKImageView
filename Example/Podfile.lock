@@ -1,0 +1,16 @@
+PODS:
+  - RKImageView (0.1.0)
+
+DEPENDENCIES:
+  - RKImageView (from `../`)
+
+EXTERNAL SOURCES:
+  RKImageView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RKImageView: 9ba6b3f5d560951ffce899e15f71c83fc25b5783
+
+PODFILE CHECKSUM: dcae361b85a9ddd24f492a374ae407de786bf3ce
+
+COCOAPODS: 1.1.0.rc.2

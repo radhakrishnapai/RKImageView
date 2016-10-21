@@ -1,0 +1,6 @@
+framework module RKImageView {
+  umbrella header "RKImageView-umbrella.h"
+
+  export *
+  module * { export * }
+}

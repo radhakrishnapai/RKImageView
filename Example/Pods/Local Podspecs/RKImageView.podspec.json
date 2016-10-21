@@ -1,0 +1,22 @@
+{
+  "name": "RKImageView",
+  "version": "0.1.0",
+  "summary": "Zooming imageView as in Instagram.",
+  "description": "Get the zooming effect as in Instagram. Zoom and pan images simultaneously.\nImage is restored to original size and position when zooming ends.",
+  "homepage": "https://github.com/radhakrishnapai/RKImageView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Radhakrishna Pai": "radhakrishnapai09@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/radhakrishnapai/RKImageView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "RKImageView/Classes/**/*"
+}
